@@ -31,7 +31,7 @@ public class Helloworld {
 		HashMap<String,Integer> map = new HashMap<String,Integer>();
 		map.put("Chiru", 700);
 		map.put("Bala", 900);
-		map.put("Venki", 200);
+		map.put("Venki", 300);
 		map.put("Nag", 500);
 		System.out.println(map);
 		
